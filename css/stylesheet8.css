@@ -1,0 +1,26 @@
+header {
+  background-image: url(../new-images/beach.jpg);
+  height: fit-content;
+  background-size: cover;
+  background-position: center;
+  height: 1500px;
+}
+h2 {
+  color: rgb(0, 0, 0);
+}
+h1 {
+  color: black;
+  font-family: cursive;
+}
+form {
+  float: left;
+  list-style-type: none;
+}
+a {
+  color: black;
+}
+/*
+img {
+  border-radius: 2%;
+}
+*/

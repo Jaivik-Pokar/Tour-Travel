@@ -1,0 +1,30 @@
+body {
+  background-image: url(../new-images/map.jpeg);
+
+}
+h2 {
+  color: wheat;
+  position: absolute;
+  top: 60%;
+  left: 10px;
+  width:100%;
+}
+h1 {
+  color: wheat;
+  font-family: cursive;
+}
+footer {
+  color: brown;
+}
+a {
+  color: rgb(255, 254, 254);
+  position: absolute;
+  top: 90%;
+  left: 2%;
+  width:100%;
+}
+p {
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  width:100%;
+}

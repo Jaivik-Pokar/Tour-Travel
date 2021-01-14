@@ -1,0 +1,13 @@
+header {
+  background-image: url(../new-images/table.jpg);
+  background-size: cover;
+  background-position: center;
+  height:1500px;
+}
+h1 {
+  color: black;
+ font-family: cursive;
+}
+h2 {
+  color: blue;
+}

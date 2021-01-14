@@ -1,0 +1,23 @@
+header{
+    
+    background-image:  url(../images/7.jpg);
+    background-size: cover  ;
+    height: 1500px;
+     
+}
+a{
+    color: white;
+}
+h3{
+    color: orange;
+    font-size:40px
+}
+h2{
+    color: yellow;
+    font-size:40px;
+}
+h1{
+    color:rgb(30, 134, 30);
+        font-family: cursive;
+
+}

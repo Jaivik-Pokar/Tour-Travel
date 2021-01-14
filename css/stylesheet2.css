@@ -1,0 +1,67 @@
+header{
+  background-image:  url(../images/2.jpg);
+  background-size: contain;
+  width: fit-content;
+}
+a {
+  
+  color: black;
+  padding: 4px 10px;
+}
+
+a:hover {
+ 
+  color: black;
+}
+hr{
+  color: black;
+  font-family: cursive;
+}
+h2{
+  font-style: normal;
+  color:black;
+  
+}
+h1{
+  font-family: cursive;
+    
+  color:black;
+  
+  
+}
+/*
+p.small {
+  font-variant: small-caps;
+}*/
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+
+  padding: 10px;
+}
+.grid-item {
+ border: 2px solid;
+  padding: 20px; 
+  width: 400px;
+  
+   
+  
+  padding: 5px;
+  font-size: 30px;
+  text-align: center;
+}
+
+table, th, td {
+
+    border: 1px solid rgb(247, 245, 245);
+    border-collapse: collapse;
+  }
+  table{
+      table-layout: auto;
+  }
+  th, td {
+    color: rgb(253, 255, 255);
+    padding: 5px;
+    text-align: left;    
+  }
